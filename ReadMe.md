@@ -24,7 +24,7 @@ This is a screenshot of the main page of the news app, displaying a list of news
 
 ![Screenshot 2](assets/Screenshot1.png)
 
-![Screenshot 3](assets/Screenshot2.png)
+![Screenshot 3](assets/Screenshot3.png)
 
 Here, users can see the full content of a selected news article after clicking on it.
 
