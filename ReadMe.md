@@ -1,4 +1,4 @@
-# News App
+# NewsHub-App
 
 This is a simple news app built using HTML, CSS, and JavaScript.
 
@@ -17,9 +17,13 @@ This is a simple news app built using HTML, CSS, and JavaScript.
 - **Fetch API**: Used to make HTTP requests to fetch news data from a remote server.
 - **Responsive Design**: Implemented using CSS media queries to ensure the app looks good on different devices.
 
-Output of Project
-![Screenshot 1](assets\Screenshot.png)
+## Output of Project
+![Screenshot 1](assets/Screenshot.png)
+
 This is a screenshot of the main page of the news app, displaying a list of news articles fetched from the API.
-![Screenshot 2](assets\Screenshot1.png)
+
+![Screenshot 2](assets/Screenshot1.png)
+
 Here, users can see the full content of a selected news article after clicking on it.
+
 
